@@ -26,5 +26,5 @@ permissions:
     description: permission that allows player to use texter
     children:
       texter.command.txt:
-        default: true # もしopのみ実行させたい場合は op と記述してください
+        default: op
         description: permission that allows player to use /txt
